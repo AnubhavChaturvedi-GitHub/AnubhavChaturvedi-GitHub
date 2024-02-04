@@ -1,4 +1,4 @@
-![logo](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/README.md)
+![gif](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/README.md)
 <h1 align="center">Hi 👋, I'm Anubhav Chaturvedi</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
