@@ -1,4 +1,4 @@
-![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/README.md)
+![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Anubhav Chaturvedi</h1>
 
