@@ -1,14 +1,14 @@
 ![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
 
-<h1 align="center">Hi 👋, I'm Anubhav Chaturvedi</h1>
+<h1 align="center">Greetings! I'm Anubhav Chaturvedi 👋</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Dedicated Frontend Developer based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="anubhavchaturvedi-github" /></a> </p>
 
-- 🔭 I’m currently working on [Jarvis](https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S..git)
+- 🔭 Currently immersed in the development of [Jarvis](https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S..git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/ac520/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ac520" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Professional Skills:</h3>
 <p align="left"> 
 <!-- Add your icons and links here -->
 </p>
