@@ -19,20 +19,3 @@
 <a href="https://www.youtube.com/c/@anubhav_chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anubhav_chaturvedi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ac520/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ac520" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Professional Skills:</h3>
-<p align="left"> 
-<!-- Add your icons and links here -->
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavchaturvedi-github&show_icons=true&locale=en&layout=compact" alt="anubhavchaturvedi-github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavchaturvedi-github&show_icons=true&locale=en" alt="anubhavchaturvedi-github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavchaturvedi-github&" alt="anubhavchaturvedi-github" />
-</p>
