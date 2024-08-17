@@ -1,14 +1,14 @@
 
 OOPS in Python Programming
-1.Class
-2.Object
-3.Polymorphism
-4.Encapsulation
-5.Inheritance
-6.Abstraction
+-Class
+-Object
+-Polymorphism
+-Encapsulation
+-Inheritance
+-Abstraction
 
-@ CLASS : -  A class is a collection of objects. A class contains the blueprints or the prototype from which the objects are being created.
-@ Object : -  object is the instance of a class ,To encapsulate data and behavior for efficient, reusable code.
+# CLASS : -  A class is a collection of objects. A class contains the blueprints or the prototype from which the objects are being created.
+# Object : -  object is the instance of a class ,To encapsulate data and behavior for efficient, reusable code.
 Python code ( Class + Object )
 class hello: # Syntax --> class keyword + class name
     #statement
