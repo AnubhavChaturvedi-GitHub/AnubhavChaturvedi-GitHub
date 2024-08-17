@@ -100,3 +100,47 @@
    
    d = Dog()
    print(d.sound())  # Output: Bark
+
+
+### Method Overloading
+
+Since Python doesn't support method overloading directly, you can use default arguments to simulate it:
+
+```python
+class Greet:
+    def say_hello(self, name=None):
+        if name:
+            return f"Hello, {name}!"
+        else:
+            return "Hello, World!"
+
+# Create an instance of Greet
+greet = Greet()
+
+# Method calls
+print(greet.say_hello())      # Output: Hello, World!
+print(greet.say_hello("Alice"))  # Output: Hello, Alice!
+```
+
+In this example, the `say_hello` method handles both cases where a name is provided and where it is not, mimicking method overloading.
+
+### Method Overriding
+
+Here's a simple example of method overriding:
+
+```python
+class Animal:
+    def make_sound(self):
+        return "Some generic sound"
+
+class Cat(Animal):
+    def make_sound(self):
+        return "Meow"
+
+# Create instances
+animal = Animal()
+cat = Cat()
+
+# Method calls
+print(animal.make_sound())  # Output: Some generic sound
+print(cat.make_sound())     # Output: Meow
