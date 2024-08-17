@@ -1,5 +1,6 @@
 
-OOPS in Python Programming
+# OOPS in Python Programming
+
 -Class
 -Object
 -Polymorphism
@@ -7,28 +8,9 @@ OOPS in Python Programming
 -Inheritance
 -Abstraction
 
-# CLASS : -  A class is a collection of objects. A class contains the blueprints or the prototype from which the objects are being created.
-# Object : -  object is the instance of a class ,To encapsulate data and behavior for efficient, reusable code.
-Python code ( Class + Object )
-class hello: # Syntax --> class keyword + class name
-    #statement
-    # we can also say class is the collection methods
-    def __init__(self,name,greet):
-        self.name = name
-        self.greet = greet
-    def wish(self):
-        print(f"hello {self.name},{self.greet}")
+# OOPs (Object-Oriented Programming) in Python
 
-c = hello("Anubhav","how are you?")
-c.wish() 
-
-Sure, here's a more complete explanation of OOP principles in Python, including the code you've provided:
-
----
-
-OOPs (Object-Oriented Programming) in Python
-
-1. Class : A class is a blueprint for creating objects. It defines a set of attributes and methods that the created objects will have. Think of it as a template for the objects.
+## 1. Class : A class is a blueprint for creating objects. It defines a set of attributes and methods that the created objects will have. Think of it as a template for the objects.
 
    ```python
    class Hello:
@@ -42,14 +24,14 @@ OOPs (Object-Oriented Programming) in Python
            print(f"Hello {self.name}, {self.greet}")
    ```
 
-2. Object: An object is an instance of a class. It is created based on the class and has access to the class’s attributes and methods. Objects encapsulate data and behavior.
+## 2. Object: An object is an instance of a class. It is created based on the class and has access to the class’s attributes and methods. Objects encapsulate data and behavior.
 
    ```python
    c = Hello("Anubhav", "how are you?")
    c.wish()  # Output: Hello Anubhav, how are you?
    ```
 
-3. Polymorphism: Polymorphism allows objects of different classes to be treated as objects of a common superclass. It provides a way to perform a single action in different forms. For example, different classes can have methods with the same name but different implementations.
+## 3. Polymorphism: Polymorphism allows objects of different classes to be treated as objects of a common superclass. It provides a way to perform a single action in different forms. For example, different classes can have methods with the same name but different implementations.
 
    ```python
    class Dog:
@@ -69,7 +51,7 @@ OOPs (Object-Oriented Programming) in Python
    make_sound(c)  # Output: Meow
    ```
 
-4. Encapsulation: Encapsulation involves bundling data and methods that operate on that data within a single unit, typically a class. It restricts direct access to some of an object's components, which can prevent accidental modification.
+## 4. Encapsulation: Encapsulation involves bundling data and methods that operate on that data within a single unit, typically a class. It restricts direct access to some of an object's components, which can prevent accidental modification.
 
    ```python
    class Person:
@@ -88,7 +70,7 @@ OOPs (Object-Oriented Programming) in Python
    print(p.get_name())  # Output: Doe
    ```
 
-5. Inheritance: Inheritance allows a class to inherit attributes and methods from another class. This promotes code reuse and establishes a relationship between classes.
+## 5. Inheritance: Inheritance allows a class to inherit attributes and methods from another class. This promotes code reuse and establishes a relationship between classes.
 
    ```python
    class Animal:
@@ -103,7 +85,7 @@ OOPs (Object-Oriented Programming) in Python
    print(d.sound())  # Output: Bark
    ```
 
-6. Abstraction: Abstraction means hiding the complex implementation details and showing only the necessary features of an object. It allows focusing on what an object does rather than how it does it.
+## 6. Abstraction: Abstraction means hiding the complex implementation details and showing only the necessary features of an object. It allows focusing on what an object does rather than how it does it.
 
    ```python
    from abc import ABC, abstractmethod
