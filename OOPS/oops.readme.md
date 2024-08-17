@@ -1,12 +1,11 @@
-
 # OOPS in Python Programming
 
--Class
--Object
--Polymorphism
--Encapsulation
--Inheritance
--Abstraction
+- Class
+- Object
+- Polymorphism
+- Encapsulation
+- Inheritance
+- Abstraction
 
 # OOPs (Object-Oriented Programming) in Python
 
