@@ -211,9 +211,16 @@ C:\Users\chatu>
 ```
 docker stop <container_id>
 ```
+
 # 8 to remove the container `docker rm <container_id>`
 ## `cmd`
 ```
 docker rm <container_id>
 ```
+# 9 Pull and run specific image `docker run -d -p 8080:80 nginx`
+## `cmd`
+```
+docker run -d -p 8080:80 nginx
+```
+
 
