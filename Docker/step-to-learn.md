@@ -1,4 +1,4 @@
-# 1 verify the Docker installation 
+# 1 Verify the Docker installation 
 ```
 docker --version
 ```
@@ -19,7 +19,7 @@ See 'docker run --help'.
 
 C:\Users\chatu>
 ```
-## 'mistake2`
+## `mistake2`
 ```
 C:\Users\chatu>docker run hello-world!
 docker: invalid reference format.
@@ -27,7 +27,7 @@ See 'docker run --help'.
 
 C:\Users\chatu>
 ```
-## Success 
+## `Success`
 ```
 C:\Users\chatu>docker run hello-world
 Unable to find image 'hello-world:latest' locally
@@ -169,4 +169,14 @@ For more help on how to use Docker, head to https://docs.docker.com/go/guides/
 
 
 C:\Users\chatu>
+```
+# `Success`
+```
+C:\Users\chatu>docker run -it ubuntu bash
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+31e907dcc94a: Pull complete
+Digest: sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+Status: Downloaded newer image for ubuntu:latest
+root@66a093b982fe:/#
 ```
