@@ -63,7 +63,7 @@ C:\Users\chatu>
 
 # 3 Run an Ubuntu Container `docker run -it ubuntu bash`
 
-# `mistake`
+## `mistake`
 ```
 
 C:\Users\chatu>docker -it ubantu bash
@@ -170,7 +170,7 @@ For more help on how to use Docker, head to https://docs.docker.com/go/guides/
 
 C:\Users\chatu>
 ```
-# `Success`
+## `Success`
 ```
 C:\Users\chatu>docker run -it ubuntu bash
 Unable to find image 'ubuntu:latest' locally
@@ -180,3 +180,40 @@ Digest: sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
 Status: Downloaded newer image for ubuntu:latest
 root@66a093b982fe:/#
 ```
+
+# 4 To Exit the Ubuntu `exit`
+## `Success`
+```
+root@66a093b982fe:/# exit
+exit
+```
+# 5 List Running Container `docker ps`
+## `Success`
+```
+C:\Users\chatu>docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+C:\Users\chatu>
+```
+# 6 List All Containers `docker ps -a`
+## `success`
+```
+C:\Users\chatu>docker ps -a
+CONTAINER ID   IMAGE         COMMAND    CREATED          STATUS                       PORTS     NAMES
+66a093b982fe   ubuntu        "bash"     20 minutes ago   Exited (127) 8 minutes ago             crazy_chaplygin
+c6217ad2ff8b   hello-world   "/hello"   25 minutes ago   Exited (0) 25 minutes ago              elegant_chaplygin
+
+C:\Users\chatu>
+```
+
+# 7 to Stop container `docker stop <container_id>`
+## `cmd`
+```
+docker stop <container_id>
+```
+# 8 to remove the container `docker rm <container_id>`
+## `cmd`
+```
+docker rm <container_id>
+```
+
