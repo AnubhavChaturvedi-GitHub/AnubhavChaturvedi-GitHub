@@ -223,4 +223,33 @@ docker rm <container_id>
 docker run -d -p 8080:80 nginx
 ```
 
+# 10 Ubantu update using `apt update` after `docker run -it ununtu bash`
+## `success`
+```
+C:\Users\chatu>docker run -it ubuntu bash
+root@ae9c1ee325d2:/# apt update
+Get:1 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble InRelease [256 kB]
+Get:3 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Packages [12.7 kB]
+Get:4 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [354 kB]
+Get:5 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [335 kB]
+Get:6 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [399 kB]
+Get:7 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Get:8 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:9 http://archive.ubuntu.com/ubuntu noble/main amd64 Packages [1808 kB]
+Get:10 http://archive.ubuntu.com/ubuntu noble/restricted amd64 Packages [117 kB]
+Get:11 http://archive.ubuntu.com/ubuntu noble/multiverse amd64 Packages [331 kB]
+Get:12 http://archive.ubuntu.com/ubuntu noble/universe amd64 Packages [19.3 MB]
+Get:13 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [434 kB]
+Get:14 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [16.9 kB]
+Get:15 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [354 kB]
+Get:16 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [479 kB]
+Get:17 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [11.5 kB]
+Fetched 24.6 MB in 18s (1392 kB/s)
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+root@ae9c1ee325d2:/#
+```
 
