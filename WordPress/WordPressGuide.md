@@ -6,7 +6,7 @@
 ## Step 1 :  [Download](https://www.apachefriends.org/download.html) XAMPP
 ## Step 2 : [Download](https://wordpress.org/download/) WordPress
 ## Step 3 : Extract The Wordpress Folder 
-## Step 4 : Copy folder and paste in {`C:\xampp\htdocs`}
-## Step 5 : Start Apache & Mysql in `xampp control pannel` 
-## Step 6 : Navigate the Local host `http://localhost/wordpress/`
+## Step 4 : Copy folder and paste in 👉{`C:\xampp\htdocs`}
+## Step 5 : Start Apache & Mysql in 👉`xampp control pannel` 
+## Step 6 : Navigate the Local host 👉`http://localhost/wordpress/`
 ## 
