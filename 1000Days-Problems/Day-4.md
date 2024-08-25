@@ -22,12 +22,15 @@ Sample Output 0:
 </summary>
 Answer:
 
+# `code : 1`
 ```python
 if __name__ == '__main__':
     n = int(input())
     for i in range(n):
         print(i * i)
-        
+```
+# `code : 2`
+```python
 if __name__ == '__main__':
     n = int(input())
     for i in range(n):
