@@ -35,6 +35,7 @@ n = 24; n > 20 and n is even, so it is not weird.
 </summary>
   
   **Answer:** 
+  # `code 1`
 ```
 if __name__ == '__main__':
     n = int(input().strip())
@@ -56,5 +57,19 @@ if __name__ == '__main__':
     else:
         print('Not Weird')
 ```
-  
+  # `code 2`
+  ```
+if __name__ == '__main__':
+    n = int(input().strip())
+    
+    if n % 2 != 0:  # Odd numbers
+        print("Weird")
+    elif n % 2 == 0:
+        if n in range(2, 6):  # Even and in range 2 to 5
+            print("Not Weird")
+        elif n in range(6, 21):  # Even and in range 6 to 20
+            print("Weird")
+        elif n > 20:  # Even and greater than 20
+            print("Not Weird")
+```
 </details>
