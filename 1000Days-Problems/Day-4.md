@@ -20,16 +20,8 @@ Sample Output 0:
 16
 ```
 </summary>
-Answer:
-```python
-if __name__ == '__main__':
-    n = int(input())
-    for i in range(n):
-        print(i * i)
-        
-if __name__ == '__main__':
-    n = int(input())
-    for i in range(n):
-        print(i * 2)
+Answer:```
+jvbkjvk
 ```
+
 </details>
