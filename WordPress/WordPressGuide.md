@@ -10,3 +10,6 @@
 ## Step 5 : Start Apache & Mysql in 👉`xampp control pannel` 
 ## Step 6 : Navigate the Local host 👉`http://localhost/wordpress/`
 ## Step 7 : Navigate the Local host 👉`https://localhost/phpmyadmin/`
+## Step 8 : click on database Create new database named `wordpress`
+## Step 9 : visit again `http://localhost/wordpress/` and click on next or ok 
+## Step 10 : 
