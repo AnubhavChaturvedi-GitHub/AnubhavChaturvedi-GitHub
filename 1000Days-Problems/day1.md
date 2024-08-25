@@ -35,5 +35,26 @@ n = 24; n > 20 and n is even, so it is not weird.
 </summary>
   
   **Answer:** 
+```
+if __name__ == '__main__':
+    n = int(input().strip())
+    if n in range(1,6):
+        if n%2 == 0:
+            print("Not Weird")
+        else:
+            print("Weird")
+    elif n in range(5,21):
+        if n%2 == 0:
+            print("Weird")
+        else:
+            print("Not Weird")
+    elif n in range(20,100):
+        if n%2 == 0:
+            print("Not Weird")
+        else:
+            print("Weird")
+    else:
+        print('Not Weird')
+```
   
 </details>
