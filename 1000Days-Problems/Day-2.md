@@ -6,13 +6,18 @@ Input Format: The first line contains the first integer, a. The second line cont
  
 Output Format: Print three lines as explained above.
 
-Sample Input 0: 3
+Sample Input :
+```
+3
 2
+```
 
-Sample Output 0: 5
+Sample Output :
+```
+5
 1
 6
-
+```
 </summary>
 Answer:
 
