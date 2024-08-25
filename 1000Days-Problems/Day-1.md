@@ -36,7 +36,7 @@ n = 24; n > 20 and n is even, so it is not weird.
   
   **Answer:** 
   # `>code : 1`
-```
+```Python
 if __name__ == '__main__':
     n = int(input().strip())
     if n in range(1,6):
