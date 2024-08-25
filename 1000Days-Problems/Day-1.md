@@ -58,7 +58,7 @@ if __name__ == '__main__':
         print('Not Weird')
 ```
   # `>code : 2`
-  ```
+  ```Python
 if __name__ == '__main__':
     n = int(input().strip())
     
