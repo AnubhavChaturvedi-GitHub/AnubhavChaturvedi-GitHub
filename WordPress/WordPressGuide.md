@@ -3,7 +3,7 @@
 ![logo](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/WordPress/SRC/WordPress-logo.jpg?raw=true)
 
 # Step By Step Installation Guide
-## Download XAMPP `[Link to download](https://www.apachefriends.org/download.html)`
+## Download XAMPP [Link to download](https://www.apachefriends.org/download.html)
 ## 
 ## 
 ## 
