@@ -35,7 +35,7 @@ n = 24; n > 20 and n is even, so it is not weird.
 </summary>
   
   **Answer:** 
-  # `code 1`
+  # `code : 1`
 ```
 if __name__ == '__main__':
     n = int(input().strip())
@@ -57,7 +57,7 @@ if __name__ == '__main__':
     else:
         print('Not Weird')
 ```
-  # `code 2`
+  # `code : 2`
   ```
 if __name__ == '__main__':
     n = int(input().strip())
