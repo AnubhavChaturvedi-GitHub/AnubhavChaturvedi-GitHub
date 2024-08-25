@@ -9,4 +9,4 @@
 ## Step 4 : Copy folder and paste in 👉{`C:\xampp\htdocs`}
 ## Step 5 : Start Apache & Mysql in 👉`xampp control pannel` 
 ## Step 6 : Navigate the Local host 👉`http://localhost/wordpress/`
-## 
+## Step 7 : Navigate the Local host 👉`https://localhost/phpmyadmin/`
