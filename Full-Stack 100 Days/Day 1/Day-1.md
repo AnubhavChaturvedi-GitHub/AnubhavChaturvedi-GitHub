@@ -31,6 +31,6 @@ Today, I started honing my HTML skills by visiting **[W3Schools](https://www.w3s
 ![image](https://github.com/user-attachments/assets/90da9074-300d-47e4-bfc9-de14fdcc6a65)
 
 ---
-
+Now i am not satisfy with my result so i decisde to learn the html in depth and doing some projects 
 
 
