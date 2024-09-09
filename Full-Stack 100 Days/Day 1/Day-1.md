@@ -43,3 +43,12 @@ I use VS Code to streamline my coding tasks. If you haven’t already, download 
 2. **HTML Boilerplate**
 3. **Live Server**
 
+   i deside to some project only using the html and base inline interl css
+   i created this 
+![image](https://github.com/user-attachments/assets/9e562eb9-fa6d-4316-b0dc-28d51978417f)
+
+![image](https://github.com/user-attachments/assets/41727e5a-6687-493a-a502-a562bbb3a87b)
+
+here are the src of it [source code]()
+
+
