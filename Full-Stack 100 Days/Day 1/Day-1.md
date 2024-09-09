@@ -6,7 +6,7 @@ Today marks the start of an exhilarating journey into the realm of HTML! Here’
 
 ## 🧠 First Attempt:
 - **Score:** 75% (30 out of 40 correct)  
-- **Time Taken:** --  
+- **Time Taken:** 15:39
 - **Reflection:** There’s still much to explore in HTML. Time to dig deeper and refine my skills!
 
 ![First Attempt](https://github.com/user-attachments/assets/72358218-e3d8-48c0-91fa-e887d34fa737)
