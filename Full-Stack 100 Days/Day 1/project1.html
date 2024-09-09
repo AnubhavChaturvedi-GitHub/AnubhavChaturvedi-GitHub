@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Code-Article</title>
+    </head>
+    <body style="background-color: rgb(0, 0, 0);">
+        <div style="background-color: rgb(0, 0, 0);">
+            <h1 style="color: aqua;">Code Article By NetHyTech</h1>
+        </div>
+        <div style="background-color: beige;">
+        <h2>Python Code that can check the PC Brightness Level</h2>
+        <div style="background-color: rgb(0, 0, 0);">
+        <code>
+            <pre style="color: aliceblue;">
+                <tt>
+                    import wmi
+                    from TextToSpeech.Fast_DF_TTS import speak
+            
+                    def get_brightness_windows():
+                        try:
+                            w = wmi.WMI(namespace='wmi')
+                            brightness_methods = w.WmiMonitorBrightness()
+                            brightness_percentage = brightness_methods[0].CurrentBrightness
+                            return brightness_percentage
+                        except Exception as e:
+                            return f"Error: {e}"
+            
+                    def check_br_persentage():
+                        brightness = get_brightness_windows()
+                        speak(f"Current Brightness: {brightness}%")
+                </tt>
+            </pre>
+            
+            </pre>
+            </code></div>
+            <button>👍</button>
+            <button>👎</button>
+        <input style = "color: rgb(0, 0, 0);"type="text" placeholder="comment">
+    <button style="border-radius: 45px;">Comment</button><br>
+<br>
+</div>
+<div style="background-color: antiquewhite;">
+<h2>Python Code that can display weather by loaction</h2>
+<div style="background-color: rgb(0, 0, 0);">
+<code>
+    <pre style="color: aliceblue;">
+        <tt>
+import requests
+from bs4 import BeautifulSoup
+
+def get_weather_by_address(address):
+    # Use Google to find the weather for the address
+    search_url = f"https://www.google.com/search?q=weather+{address.replace(' ', '+')}"
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    
+    response = requests.get(search_url, headers=headers)
+    
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Scrape the relevant weather data
+        location = soup.find("div", attrs={"id": "wob_loc"}).text
+        time = soup.find("div", attrs={"id": "wob_dts"}).text
+        weather = soup.find("span", attrs={"id": "wob_dc"}).text
+        temp = soup.find("span", attrs={"id": "wob_tm"}).text
+        
+        weather_report = (f"Weather: {weather}\n"
+                          f"Temperature: {temp}°C")
+        
+        return weather_report
+    else:
+        return "Error retrieving weather data."
+        </tt>
+    </pre>
+    
+    </pre>
+    </code>
+</div>
+    <button>👍</button>
+    <button>👎</button>
+<input style = "color: rgb(0, 0, 0);"type="text" placeholder="comment">
+<button style="border-radius: 45px;">Comment</button><br>
+<br></div>
+<div style="background-color: antiquewhite;">
+<h2>Python Code that can control brightness using input </h2>
+<div style="background-color: rgb(0, 0, 0);">
+<code>
+    <pre style="color: aliceblue;">
+        <tt>
+            import wmi
+            from TextToSpeech.Fast_DF_TTS import speak
+
+            def set_brightness_windows(percentage):
+                 try:
+                     w = wmi.WMI(namespace='wmi')
+                     brightness_methods = w.WmiMonitorBrightnessMethods()[0]
+                     brightness_methods.WmiSetBrightness(int(percentage), 0)
+                     speak(f"Brightness set to {percentage}%")
+                except Exception as e:
+                    speak(f"Error: {e}")
+
+        </tt>
+    </pre>
+    
+    </pre>
+    </code></div>
+    <button>👍</button>
+    <button>👎</button>
+<input style = "color: rgb(0, 0, 0);"type="text" placeholder="comment">
+<button style="border-radius: 45px;">Comment</button><br>
+<br>
+        </p></div>
+
+    </body>
+</html>
