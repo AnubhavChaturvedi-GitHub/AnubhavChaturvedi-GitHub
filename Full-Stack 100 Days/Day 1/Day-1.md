@@ -1,5 +1,5 @@
 
-# Day 1
+# Day 1: Journey to Becoming a Full Stack Developer 🌐
 
 Today, I started honing my HTML skills by visiting **[W3Schools](https://www.w3schools.com/html/html_quiz.asp)** and taking their HTML quiz. Here's how it went:
 
