@@ -15,7 +15,7 @@ Today marks the start of an exhilarating journey into the realm of HTML! Here’
 
 ## ⚡️ Second Attempt:
 - **Score:** 87.5% (35 out of 40 correct)  
-- **Time Taken:** 5 minutes  
+- **Time Taken:** 5 minutes  08 seconds
 - **Reflection:** Speed and accuracy are improving. The journey is gaining momentum!
 
 ![Second Attempt](https://github.com/user-attachments/assets/3e0f1faa-0d8d-47ed-a885-f103c190aa73)
