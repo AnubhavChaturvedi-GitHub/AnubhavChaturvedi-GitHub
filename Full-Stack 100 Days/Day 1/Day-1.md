@@ -43,12 +43,17 @@ I use VS Code to streamline my coding tasks. If you haven’t already, download 
 2. **HTML Boilerplate**
 3. **Live Server**
 
+Project 1
    i deside to some project only using the html and base inline interl css
    i created this 
 ![image](https://github.com/user-attachments/assets/9e562eb9-fa6d-4316-b0dc-28d51978417f)
 
 ![image](https://github.com/user-attachments/assets/41727e5a-6687-493a-a502-a562bbb3a87b)
 
-here are the src of it [source code]()
+here are the src of it [source code](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/Full-Stack%20100%20Days/Day%201/project1.html)
 
+Project 2
+ i create the second project that is form like google form 
+ ![image](https://github.com/user-attachments/assets/4d7825a7-710e-44b3-ab4d-b7c088f1a228)
+here is the src of it [source code]()
 
