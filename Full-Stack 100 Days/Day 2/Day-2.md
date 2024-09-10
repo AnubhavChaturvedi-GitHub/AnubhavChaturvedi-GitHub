@@ -120,12 +120,14 @@ Visualizing the effects of transparency and backgrounds can be tricky, but here�
 ---
 
 ## ✍️ **Next Steps**:
-I will dive deeper into more advanced CSS concepts like **Flexbox**, **Grid Layouts**, **Responsive Design**, and creating animations with CSS in upcoming days. Stay tuned!
-
+I will dive in to Develop projects 
 ---
 
 ## 🛠 **Tools**:
 - **Editor**: Visual Studio Code
 - **Browser**: Chrome Developer Tools
+
+# Project 1 :- Login paga only using HTML + CSS
+
 
 
