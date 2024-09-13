@@ -1,4 +1,4 @@
-#1 📡 Wi-Fi Password Extraction using `netsh`
+# 1 📡 Wi-Fi Password Extraction using `netsh`
 
 > **⚠️ Disclaimer: Use this knowledge responsibly. Unauthorized access to networks is illegal.**
 
