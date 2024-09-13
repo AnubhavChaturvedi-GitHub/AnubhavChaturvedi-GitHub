@@ -62,3 +62,9 @@ pause
 
 ![image](https://github.com/user-attachments/assets/9f117455-2280-4db7-b32c-2eaaec2ed852)
 
+#☠️1 Create Folder by command
+```
+mkdir <folder name>
+```
+![image](https://github.com/user-attachments/assets/20067b87-4919-43ed-bc82-74d088ba3ea3)
+
