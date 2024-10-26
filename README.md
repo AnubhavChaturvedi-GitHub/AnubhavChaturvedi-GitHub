@@ -1,8 +1,13 @@
 # 🪐 Welcome to the Galactic Domain of Anubhav Chaturvedi! 👾
+
 <div align="center">
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][instagram-shield]][instagram-url] [![Twitter][twitter-shield]][twitter-url] [![YouTube][youtube-shield]][youtube-url] [![Telegram][telegram-shield]][telegram-url] 
+    [![LinkedIn][linkedin-shield]][linkedin-url] 
+    [![Instagram][instagram-shield]][instagram-url] 
+    [![Twitter][twitter-shield]][twitter-url] 
+    [![YouTube][youtube-shield]][youtube-url] 
+    [![Telegram][telegram-shield]][telegram-url]
+    <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" width="130" height="28" />
 </div>
-<img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" align="left" width="130" height="28" />
 
 ![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
 
@@ -42,25 +47,21 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
 
 ### 📈 Mission Stats & Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" hight='50%'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
 <!-- Linkedin -->
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
 [linkedin-url]: https://www.linkedin.com/in/anubhav-chaturvedi-/
 
 <!-- Instagram -->
-
 [instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/_anubhav__chaturvedi_/
 
 <!-- Twitter -->
-
 [twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [twitter-url]: https://x.com/AnubhavChatu
-
 
 <!-- YouTube -->
 [youtube-shield]: https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
