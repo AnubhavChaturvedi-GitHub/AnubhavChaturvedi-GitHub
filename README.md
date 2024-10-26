@@ -49,6 +49,7 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
   <img src="https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="anubhavchaturvedi-github" /></a> </p>
 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
