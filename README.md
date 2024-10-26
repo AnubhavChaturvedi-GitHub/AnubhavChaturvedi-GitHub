@@ -1,5 +1,7 @@
 # 🪐 Welcome to the Galactic Domain of Anubhav Chaturvedi! 👾
 
+![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
+
 🚀 **About Me**  
 Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explorer, on a mission to reshape the tech universe. Through software development, machine learning, and next-gen AI, I’m here to decode the future—one line of code at a time.
 
@@ -38,19 +40,11 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
     <img src="https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/ezgif-6-3bc86437ad-unscreen.gif" alt="sci-fi-gif" width="600"/>
 </div>
 
-### 📊 Cosmic Contribution Graph
-![My Contributions](https://activity-graph.herokuapp.com/graph?username=AnubhavChaturvedi-GitHub&theme=react-dark&area=true)
-
 ### 📈 Mission Stats & Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
-
-### 🌌 **Recent Missions**  
-- **🌐 [AI-Powered Resume Generator](#)**: Crafting resumes with the power of machine learning!
-- **📊 [Speech-to-Text Model](#)**: Achieving real-time, multilingual language understanding.
-- **📖 [Jarvis Project](#)**: Building an AI companion that learns and evolves with every interaction.
 
 ### 📡 Galactic Socials  
 Explore new tech realms with me across platforms:
