@@ -39,6 +39,9 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical)
 
+### 📊 Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" /> </p>
+
 ### 🛠️ Latest Projects
 - **🌐 [AI-Powered Resume Generator](#)**: Crafting resumes with the power of machine learning!
 - **📊 [Speech-to-Text Model](#)**: Aiming for real-time language understanding in multiple languages!
@@ -54,5 +57,4 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
 ### 🚀 Contributions to the Cosmos
 - **🌱 Open Source Contributor**: Actively engaging in projects to enhance collective intelligence and technological evolution.
 - **📚 Knowledge Sharer**: Blogging and creating video tutorials to empower fellow coders and tech enthusiasts.
-
 
