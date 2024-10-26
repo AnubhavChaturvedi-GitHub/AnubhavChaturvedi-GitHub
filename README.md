@@ -43,6 +43,6 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
 ### 📈 Mission Stats & Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical" alt="GitHub Stats" width="58%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical" alt="Top Languages" width="58%"/>
 </div>
 
