@@ -33,7 +33,7 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
 </div>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif" alt="sci-fi-gif" width="600"/>
+    <img src="[https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/ezgif-6-3bc86437ad-unscreen.gif)" alt="sci-fi-gif" width="600"/>
 </div>
 
 ### 📊 My Contribution Graph
