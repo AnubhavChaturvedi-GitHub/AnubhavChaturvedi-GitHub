@@ -1,44 +1,49 @@
-# 🌌 Welcome to Anubhav Chaturvedi's Digital Galaxy 👾
+# 🌌 Welcome to Anubhav Chaturvedi's Digital Realm! 👾
 
-## 🚀 About Me
-Greetings, fellow explorers! I am **Anubhav Chaturvedi**, a passionate innovator navigating the universe of technology. Currently studying in Junior University, Bangalore, I am on a quest to harness the power of AI and create revolutionary digital experiences.
+🚀 **About Me**  
+Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the cosmos of software development and artificial intelligence. My mission: to create exceptional digital experiences and push the boundaries of what's possible in technology.
 
-## ⚙️ Technologies I Command
-- **Languages & Frameworks**:
-  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
-  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
-  - ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java
-  - ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++
-  - ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React
-  - ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js
-  - ![Django](https://cdn.worldvectorlogo.com/logos/django.svg) Django
-  - ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) Android
-  - ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) Kotlin
+### ⚙️ Technologies I Command
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" />
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" />
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" />
+</div>
 
-- **Databases**:
-  - ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) MongoDB
-  - ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) MySQL
+### 🛠️ Latest Projects
+- **🌐 [AI-Powered Resume Generator](#)**: Crafting resumes with the power of machine learning!
+- **📊 [Speech-to-Text Model](#)**: Aiming for real-time language understanding in multiple languages!
 
-- **Tools & Technologies**:
-  - ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git
-  - ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux
-  - ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) Photoshop
-  - ![Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg) Selenium
+### 📡 Connect with Me Across the Universe
+- [Twitter](https://twitter.com/AnubhavChatu) 
+- [Facebook](https://www.facebook.com/IndianYoutuberAndSoftwareDevloper)
+- [Instagram](https://www.instagram.com/anubhav_chaturvedi__)
+- [YouTube](https://www.youtube.com/@NetHyTech)
+- [Stack Overflow](https://stackoverflow.com/users/users/27312144/anubhav-chaturvedi)
 
-## ⚡️ My Current Missions
-- Developing **Jarvis**, an advanced AI system to revolutionize user interactions.
-- Crafting an **AI-Powered Resume Builder** to assist job seekers in a dynamic job market.
-- Creating a **Speech-to-Text Model** that understands multiple languages in real-time.
-
-## 🌌 Connect with Me in the Digital Cosmos
-- [Twitter](https://twitter.com/AnubhavChatu) 🐦
-- [Facebook](https://www.facebook.com/IndianYoutuberAndSoftwareDevloper) 📘
-- [Instagram](https://www.instagram.com/anubhav_chaturvedi__) 📸
-- [YouTube](https://www.youtube.com/@NetHyTech) ▶️
-- [Stack Overflow](https://stackoverflow.com/users/users/27312144/anubhav-chaturvedi) 💻
-
-## 📊 My Galactic Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi&layout=compact&theme=radical) 
-
+### 🌌 Stellar Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi&layout=compact&theme=radical)
 
