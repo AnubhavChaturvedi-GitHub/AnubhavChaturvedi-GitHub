@@ -46,12 +46,3 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
-### 📡 Galactic Socials  
-Explore new tech realms with me across platforms:
-- [Twitter](https://twitter.com/AnubhavChatu) 
-- [Facebook](https://www.facebook.com/IndianYoutuberAndSoftwareDevloper)
-- [Instagram](https://www.instagram.com/anubhav_chaturvedi__)
-- [YouTube](https://www.youtube.com/@NetHyTech)
-- [Stack Overflow](https://stackoverflow.com/users/users/27312144/anubhav-chaturvedi)
-
-Ready for liftoff? Follow and join my mission!
