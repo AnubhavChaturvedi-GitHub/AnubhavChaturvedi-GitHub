@@ -26,11 +26,17 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" />
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" />
 </div>
+
+### 🛠️ Latest Projects
+- **🌐 [AI-Powered Resume Generator](#)**: Crafting resumes with the power of machine learning!
+- **📊 [Speech-to-Text Model](#)**: Aiming for real-time language understanding in multiple languages!
+- **📡 [Jarvis Project](#)**: The ultimate AI assistant designed for a seamless interaction experience.
+- **🛠️ [NetHyTech-OpenSource](#)**: A coding blog repository showcasing innovative coding solutions.
 
 ### 📡 Connect with Me Across the Universe
 - [Twitter](https://twitter.com/AnubhavChatu) 
@@ -43,3 +49,13 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical)
 
+### 🌠 My Interests
+- **Artificial Intelligence**: Exploring the frontier of machine learning and intelligent systems.
+- **Web Development**: Crafting dynamic and responsive web applications.
+- **Open Source Contribution**: Collaborating with fellow developers to enhance global projects.
+- **Content Creation**: Sharing knowledge and insights through my YouTube channel and coding blogs.
+
+### 🌌 Stellar Goals
+- 🌟 Innovate and launch new AI-driven applications.
+- 🌟 Mentor aspiring developers on their journey through the digital universe.
+- 🌟 Expand my knowledge of emerging technologies and trends in software engineering.
