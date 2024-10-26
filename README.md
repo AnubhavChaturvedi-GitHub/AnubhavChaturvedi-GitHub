@@ -5,7 +5,7 @@
     [![Twitter][twitter-shield]][twitter-url] 
     [![YouTube][youtube-shield]][youtube-url] 
     [![Telegram][telegram-shield]][telegram-url]
-    <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" width="150" height="28" />
+    <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" width="180" height="28" />
 
 
 ![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
@@ -69,4 +69,4 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
 
 <!-- Telegram -->
 [telegram-shield]: https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram&logoColor=white
-[telegram-url]: https://t.me/YourTelegramUsername
+[telegram-url]: https://t.me/JarvisByAnubhavChaturvedi
