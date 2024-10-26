@@ -37,7 +37,7 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
 </div>
 
 <div align="center">
-    <img src="https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/ezgif-6-3bc86437ad-unscreen.gif" alt="sci-fi-gif" width="600"/>
+    <img src="https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/ezgif-6-3bc86437ad-unscreen.gif" alt="sci-fi-gif" width="100"/>
 </div>
 
 ### 📈 Mission Stats & Top Languages
