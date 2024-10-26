@@ -5,7 +5,7 @@
 [![Twitter][twitter-shield]][twitter-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![Telegram][telegram-shield]][telegram-url]
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" /> </p>
 ![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
 
 🚀 **About Me**  
