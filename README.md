@@ -26,10 +26,14 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="50" />
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" />
+</div>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif" alt="sci-fi-gif" width="600"/>
 </div>
 
 ### 📊 My Contribution Graph
@@ -54,7 +58,4 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
 - [YouTube](https://www.youtube.com/@NetHyTech)
 - [Stack Overflow](https://stackoverflow.com/users/users/27312144/anubhav-chaturvedi)
 
-### 🚀 Contributions to the Cosmos
-- **🌱 Open Source Contributor**: Actively engaging in projects to enhance collective intelligence and technological evolution.
-- **📚 Knowledge Sharer**: Blogging and creating video tutorials to empower fellow coders and tech enthusiasts.
 
