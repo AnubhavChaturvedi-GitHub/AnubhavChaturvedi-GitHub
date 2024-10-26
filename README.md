@@ -1,6 +1,8 @@
 # 🪐 Welcome to the Galactic Domain of Anubhav Chaturvedi! 👾
-
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][instagram-shield]][instagram-url] [![Twitter][twitter-shield]][twitter-url] [![YouTube][youtube-shield]][youtube-url] [![Telegram][telegram-shield]][telegram-url] <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" align="left" width="130" height="28" />
+<div align="center">
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][instagram-shield]][instagram-url] [![Twitter][twitter-shield]][twitter-url] [![YouTube][youtube-shield]][youtube-url] [![Telegram][telegram-shield]][telegram-url] 
+</div>
+<img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" align="left" width="130" height="28" />
 
 ![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
 
