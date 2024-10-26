@@ -45,5 +45,5 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
 
 ### 🌌 Stellar Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GubHub&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GibHub&layout=compact&theme=radical)
 
