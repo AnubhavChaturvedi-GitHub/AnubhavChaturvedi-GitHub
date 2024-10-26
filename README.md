@@ -32,10 +32,6 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" />
 </div>
 
-### 🛠️ Latest Projects
-- **🌐 [AI-Powered Resume Generator](#)**: Crafting resumes with the power of machine learning!
-- **📊 [Speech-to-Text Model](#)**: Aiming for real-time language understanding in multiple languages!
-
 ### 📡 Connect with Me Across the Universe
 - [Twitter](https://twitter.com/AnubhavChatu) 
 - [Facebook](https://www.facebook.com/IndianYoutuberAndSoftwareDevloper)
