@@ -7,7 +7,8 @@
     [![Twitter][twitter-shield]][twitter-url] 
     [![YouTube][youtube-shield]][youtube-url] 
     [![Telegram][telegram-shield]][telegram-url]
-    <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" width="270" height="28" />
+    <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" width="150" height="28" />
+    
 🚀 **About Me**  
 Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explorer, on a mission to reshape the tech universe. Through software development, machine learning, and next-gen AI, I’m here to decode the future—one line of code at a time.
 
