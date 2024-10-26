@@ -1,9 +1,11 @@
 # 🪐 Welcome to the Galactic Domain of Anubhav Chaturvedi! 👾
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![Telegram][telegram-shield]][telegram-url]
+
 ![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
 
 🚀 **About Me**  
