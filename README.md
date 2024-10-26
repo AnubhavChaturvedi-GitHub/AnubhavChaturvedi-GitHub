@@ -44,6 +44,6 @@ Greetings, Earthling! I'm Anubhav Chaturvedi, a tech innovator navigating the co
 - [Stack Overflow](https://stackoverflow.com/users/users/27312144/anubhav-chaturvedi)
 
 ### 🌌 Stellar Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GubHub&layout=compact&theme=radical)
 
