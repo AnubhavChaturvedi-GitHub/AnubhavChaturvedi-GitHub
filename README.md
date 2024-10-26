@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
 <h1>Hi 👋, I'm Anubhav Chaturvedi</h1>
 <p>Enthusiastic about crafting exceptional user experiences</p>
 <h2>🚀 Languages and Tools I Use</h2>
