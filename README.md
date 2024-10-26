@@ -36,10 +36,6 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" />
 </div>
 
-<div align="center">
-    <img src="https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/ezgif-6-3bc86437ad-unscreen.gif" alt="sci-fi-gif" width="100"/>
-</div>
-
 ### 📈 Mission Stats & Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnubhavChaturvedi-GitHub&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" hight='50%'/>
