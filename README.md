@@ -1,5 +1,9 @@
 # 🪐 Welcome to the Galactic Domain of Anubhav Chaturvedi! 👾
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![Telegram][telegram-shield]][telegram-url]
 ![Banner](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/S%20(1).gif)
 
 🚀 **About Me**  
@@ -42,3 +46,26 @@ Greetings, Earthling! I’m Anubhav Chaturvedi, an AI visionary and coding explo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChaturvedi-GitHub&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
+<!-- Linkedin -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
+[linkedin-url]: https://www.linkedin.com/in/anubhav-chaturvedi-/
+
+<!-- Instagram -->
+
+[instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/_anubhav__chaturvedi_/
+
+<!-- Twitter -->
+
+[twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+[twitter-url]: https://x.com/AnubhavChatu
+
+
+<!-- YouTube -->
+[youtube-shield]: https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
+[youtube-url]: https://www.youtube.com/@NetHyTech
+
+<!-- Telegram -->
+[telegram-shield]: https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram&logoColor=white
+[telegram-url]: https://t.me/YourTelegramUsername
