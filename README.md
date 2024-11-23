@@ -9,7 +9,7 @@
     [![Telegram][telegram-shield]][telegram-url]
     <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" width="150" height="28" />
     
-🚀 **Who is Anubhav Chaturvedi**  
+🚀 **Anubhav Chaturvedi**  
 Anubhav Chaturvedi is Software engineer, famed YouTuber, and influential creator Dive into cutting-edge tech insights, master software development, and explore innovation like never before. Join the NetHyTech community on YouTube – where knowledge meets inspiration. Subscribe to @NetHyTech and elevate your tech game! 
 
 ---
