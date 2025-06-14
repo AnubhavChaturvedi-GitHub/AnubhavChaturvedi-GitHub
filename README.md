@@ -9,9 +9,12 @@
     [![Telegram][telegram-shield]][telegram-url]
     <img src="https://komarev.com/ghpvc/?username=anubhavchaturvedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavchaturvedi-github" width="150" height="28" />
     
-🚀 **Anubhav Chaturvedi**  
-Anubhav Chaturvedi is the Founder and CEO of NetHyTech , a renowned software engineer, and an influential YouTuber.
-creator Dive into cutting-edge tech insights, master software development, and explore innovation like never before. Join the NetHyTech community on YouTube – where knowledge meets inspiration. Subscribe to @NetHyTech and elevate your tech game! 
+🚀 Meet Anubhav Chaturvedi
+Anubhav Chaturvedi is Founder of NetHyTech Community | Visionary Developer | Psychologist | Social Media Strategist | Video Editor | Influential YouTuber | AI Tools Expert | Cameraman | Motivational Speaker
+
+Dive deep into the world of cutting-edge technology, master software development, and unlock the power of innovation with Anubhav. Join the vibrant NetHyTech community on YouTube — where knowledge fuels inspiration and creativity meets expertise.
+
+Subscribe now to @NetHyTech and take your tech journey to the next level!
 
 ---
 
