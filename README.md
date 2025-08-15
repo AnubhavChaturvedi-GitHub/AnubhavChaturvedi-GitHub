@@ -11,7 +11,7 @@
     
 🚀 Meet Anubhav Chaturvedi  
   
-Anubhav Chaturvedi is Founder of NetHyTech Community | Visionary Developer | Psychologist | AI Tools Expert | Social Media Strategist | Video Editor | Influential YouTuber | Trainer | Cameraman | Motivational Speaker | Musician | Philosopher | Cricketer | Sales Strategist
+Anubhav Chaturvedi is Founder of NetHyTech Community , Visionary Developer , Psychologist , AI Tools Expert , Social Media Strategist , Video Editor , Influential YouTuber , Trainer , Cameraman , Motivational Speaker , Musician , Philosopher , Cricketer , Sales Strategist
 
 Step into the world of limitless learning and innovation with Anubhav — where tech meets creativity and purpose fuels progress. From mastering the latest in software development and AI tools to unlocking personal growth through powerful insights, Anubhav is on a mission to transform minds and empower changemakers.
 
