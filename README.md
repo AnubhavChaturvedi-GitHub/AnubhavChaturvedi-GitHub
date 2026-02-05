@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to AnubhavChaturvedi's GitHub Profile</h1>
 
-![Demo GIF](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/Profile.gif)
+![Demo GIF](https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/Architect.gif)
 
 
 <h2 align="center">Who is Anubhav Chaturvedi</h2>
