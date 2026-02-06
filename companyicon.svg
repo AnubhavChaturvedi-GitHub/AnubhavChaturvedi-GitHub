@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="100" viewBox="0 0 650 100" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .box { rx:12; ry:12; fill-opacity:1; }
+    .lbl { font-family: Arial, Helvetica, sans-serif; font-size:18px; fill:#fff; font-weight:700; text-anchor:middle; dominant-baseline:central; }
+  </style>
+
+  <rect x="0" y="15" width="650" height="70" fill="#0f172a" rx="12" />
+
+  <g>
+    <rect class="box" x="-120" y="25" width="110" height="50" fill="#3776AB"/>
+    <text class="lbl" x="-65" y="50">Python</text>
+    <animateTransform attributeName="transform" type="translate" dur="6s"
+      from="0 0" to="770 0" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <rect class="box" x="-320" y="25" width="110" height="50" fill="#F7DF1E"/>
+    <text class="lbl" x="-265" y="50" fill="#111">JavaScript</text>
+    <animateTransform attributeName="transform" type="translate" dur="6s"
+      from="0 0" to="770 0" repeatCount="indefinite" begin="2s"/>
+  </g>
+
+  <g>
+    <rect class="box" x="-520" y="25" width="110" height="50" fill="#007396"/>
+    <text class="lbl" x="-465" y="50">Java</text>
+    <animateTransform attributeName="transform" type="translate" dur="6s"
+      from="0 0" to="770 0" repeatCount="indefinite" begin="4s"/>
+  </g>
+</svg>
