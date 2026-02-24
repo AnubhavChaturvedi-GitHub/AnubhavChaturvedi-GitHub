@@ -13,6 +13,12 @@ Anubhav Chaturvedi is the founder of the NetHyTech community, a rapidly growing 
       <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
     </linearGradient>
 
+    <!-- Canva Gradient (must be in top-level defs, not inside a symbol) -->
+    <linearGradient id="canvaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00c4cc" />
+      <stop offset="100%" style="stop-color:#7d2ae8" />
+    </linearGradient>
+
     <!-- Glassmorphism Effect -->
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="3" result="blur" />
@@ -100,10 +106,6 @@ Anubhav Chaturvedi is the founder of the NetHyTech community, a rapidly growing 
 
     <symbol id="logo-canva" viewBox="0 0 100 100">
       <circle cx="50" cy="50" r="40" fill="url(#canvaGrad)"/>
-      <linearGradient id="canvaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#00c4cc" />
-        <stop offset="100%" style="stop-color:#7d2ae8" />
-      </linearGradient>
       <text x="50" y="60" font-family="Arial" font-weight="bold" font-size="25" text-anchor="middle" fill="#fff">C</text>
     </symbol>
 
@@ -198,11 +200,11 @@ Anubhav Chaturvedi is the founder of the NetHyTech community, a rapidly growing 
         <use href="#logo-render" x="-40" y="-70" width="80" height="80"/>
         <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">Render</text>
       </g>
-      <!-- Item 8: ews (AWS) -->
+      <!-- Item 8: AWS -->
       <g transform="translate(1500, 300)">
         <use href="#tech-item"/>
         <use href="#logo-aws" x="-40" y="-70" width="80" height="80"/>
-        <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">ews (AWS)</text>
+        <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">AWS</text>
       </g>
       <!-- Item 9: Google Cloud -->
       <g transform="translate(1700, 300)">
@@ -222,17 +224,17 @@ Anubhav Chaturvedi is the founder of the NetHyTech community, a rapidly growing 
         <use href="#logo-react" x="-40" y="-70" width="80" height="80"/>
         <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">React</text>
       </g>
-      <!-- Item 12: Venu JS (Vue) -->
+      <!-- Item 12: Vue JS -->
       <g transform="translate(2300, 300)">
         <use href="#tech-item"/>
         <use href="#logo-vue" x="-40" y="-70" width="80" height="80"/>
         <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">Vue JS</text>
       </g>
-      <!-- Item 13: Mongo DB -->
+      <!-- Item 13: MongoDB -->
       <g transform="translate(2500, 300)">
         <use href="#tech-item"/>
         <use href="#logo-mongodb" x="-40" y="-70" width="80" height="80"/>
-        <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">Mongo DB</text>
+        <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">MongoDB</text>
       </g>
       <!-- Item 14: MySQL -->
       <g transform="translate(2700, 300)">
@@ -246,13 +248,13 @@ Anubhav Chaturvedi is the founder of the NetHyTech community, a rapidly growing 
         <use href="#logo-canva" x="-40" y="-70" width="80" height="80"/>
         <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">Canva</text>
       </g>
-      <!-- Item 16: AE -->
+      <!-- Item 16: After Effects -->
       <g transform="translate(3100, 300)">
         <use href="#tech-item"/>
         <use href="#logo-ae" x="-40" y="-70" width="80" height="80"/>
         <text y="50" font-family="Verdana" font-size="12" fill="#fff" text-anchor="middle">After Effects</text>
       </g>
-      <!-- Item 17: PS -->
+      <!-- Item 17: Photoshop -->
       <g transform="translate(3300, 300)">
         <use href="#tech-item"/>
         <use href="#logo-ps" x="-40" y="-70" width="80" height="80"/>
@@ -264,17 +266,17 @@ Anubhav Chaturvedi is the founder of the NetHyTech community, a rapidly growing 
         <use href="#logo-pandas" x="-40" y="-70" width="80" height="80"/>
         <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">Pandas</text>
       </g>
-      <!-- Item 19: Numpy -->
+      <!-- Item 19: NumPy -->
       <g transform="translate(3700, 300)">
         <use href="#tech-item"/>
         <use href="#logo-numpy" x="-40" y="-70" width="80" height="80"/>
         <text y="50" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">NumPy</text>
       </g>
-      <!-- Item 20: Scikit Learn -->
+      <!-- Item 20: Scikit-Learn -->
       <g transform="translate(3900, 300)">
         <use href="#tech-item"/>
         <use href="#logo-scikit" x="-40" y="-70" width="80" height="80"/>
-        <text y="50" font-family="Verdana" font-size="12" fill="#fff" text-anchor="middle">Scikit Learn</text>
+        <text y="50" font-family="Verdana" font-size="12" fill="#fff" text-anchor="middle">Scikit-Learn</text>
       </g>
       <!-- Item 21: SciPy -->
       <g transform="translate(4100, 300)">
